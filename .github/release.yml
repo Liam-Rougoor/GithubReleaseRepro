@@ -1,4 +1,7 @@
 changelog:
+  exclude:
+    authors:
+    - Liam-Rougoor
   categories:
   - title: Bug Fixes
     labels:
