@@ -1,0 +1,11 @@
+changelog:
+  exclude:
+    authors:
+    - Liam-Rougoor
+  categories:
+  - title: Bug Fixes
+    labels:
+    - Bugfix
+  - title: Features
+    labels:
+    - Feature
